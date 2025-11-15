@@ -44,8 +44,11 @@ terraform.rc
 planout
 
 # Ignore keypair files
-keypair/*.pub
-keypair/sigmoid-kp
+keypairs/*.pub
+keypairs/*.pem
+keypairs/*kp*
+keypairs/*keypair*
+keypairs/sigmoid-kp
 
 # Ignore terraform plan files
 *.plan
