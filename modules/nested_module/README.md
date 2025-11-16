@@ -1,4 +1,4 @@
-# Module: EC2 Bastion
+# Module: Your lovely nested module
 
 Jot down description of your lovely nested module here.
 
